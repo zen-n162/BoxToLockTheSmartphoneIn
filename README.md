@@ -13,6 +13,8 @@
 - 指定の時刻になったらスピーカーからメロディーが鳴る
 - 指定の時刻になったらLINEで通知がいく
 
+[発表資料](https://drive.google.com/file/d/1X6S6ioTKWcm9RzvYjC_Ej6DzynwPraWL/view?usp=sharing)
+
 ## 環境
 - ESP32
 - 使用したFabo
